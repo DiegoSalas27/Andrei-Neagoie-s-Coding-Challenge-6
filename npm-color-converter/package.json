@@ -1,6 +1,6 @@
 {
   "name": "color-converter-dsn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my first npm package",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "keywords": [
     "npm",
     "npm-coding-challenge"
+    "npm-color-converter"
   ],
   "author": "Diego Salas",
   "license": "ISC"
