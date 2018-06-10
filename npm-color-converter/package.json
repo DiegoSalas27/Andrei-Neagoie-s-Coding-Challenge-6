@@ -1,0 +1,15 @@
+{
+  "name": "color-converter-dsn",
+  "version": "1.0.0",
+  "description": "This is my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm-coding-challenge"
+  ],
+  "author": "Diego Salas",
+  "license": "ISC"
+}

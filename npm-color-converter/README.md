@@ -1,0 +1,1 @@
+# This package allows you to convert RGB colors to HEX and vice versa.
