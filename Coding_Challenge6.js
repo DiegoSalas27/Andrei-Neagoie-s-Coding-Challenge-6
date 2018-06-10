@@ -111,7 +111,7 @@ function ConvertColor(value){
     }
   }
  
-  //tooked from the top answer at: https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb
+  //took from the top answer at: https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb
   else{
     Result ="#" + ((1 << 24) + (value[0] << 16) + (value[1] << 8) + value[2]).toString(16).slice(1).toUpperCase();
   }
